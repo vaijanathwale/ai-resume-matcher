@@ -55,20 +55,10 @@ Job seekers improving resume-job relevance
 Recruiters checking candidate-job match
 Career guidance and resume optimization tools
 
-📌 Future Enhancements (Optional)
-
-OpenAI-powered advanced AI suggestions
-Resume section-by-section breakdown
-Visual skill graphs
-Live job description scraping
-Export report as PDF
-Deployment on Streamlit Cloud / Render
-
 🤝 Contributing
 Contributions are welcome!
-Feel free to fork the repo and submit a pull request.
+Feel free to fork the repo and submit a pull request.	
 
-⭐ If you like this project, give it a star!
-Your support motivates the development of more AI tools.
+
 
 
