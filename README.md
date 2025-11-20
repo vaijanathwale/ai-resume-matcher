@@ -106,3 +106,4 @@ Feel free to fork the repo and submit a pull request.
 ⭐ If you like this project, give it a star!
 
 Your support motivates the development of more AI tools.
+
